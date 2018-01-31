@@ -1,0 +1,23 @@
+{
+  "name": "babel-plugin-nex-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bplok20010/babel-plugin-nex-utils"
+  },
+  "author": "nobo.zhou<nobo.zhou@foxmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bplok20010/babel-plugin-nex-utils/issues"
+  },
+  "homepage": "https://github.com/bplok20010/babel-plugin-nex-utils",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
